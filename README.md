@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Instagram-F9D5FF?style=for-the-badge&logo=instagram&logoColor=F22998&link=/_igor2k/" /></a>
  
   <a href="#" alt="Behance">
-  <img src="https://img.shields.io/badge/-Behance-F9D5FF?style=for-the-badge&logo=behance&logoColor=F22998&link=/igorsouzadesign" /></a>
+  <img src="https://img.shields.io/badge/-Behance-F9D5FF?style=for-the-badge&logo=behance&logoColor=F22998&link=behance.net/igorsouzadesign" /></a>
   
 </p>
 
