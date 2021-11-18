@@ -18,10 +18,10 @@
 
 <p align="left">  
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/igor-souza-aa6a44197/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-F9D5FF?style=for-the-badge&logo=Linkedin&logoColor=F22998&link=/igor-souza-aa6a44197/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/_igor2k/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-F9D5FF?style=for-the-badge&logo=instagram&logoColor=F22998&link=/_igor2k/" /></a>
  
   <a href="https://www.behance.net/igorsouzadesign" alt="Behance">
