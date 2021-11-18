@@ -19,13 +19,13 @@
 <p align="left">  
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-F9D5FF?style=for-the-badge&logo=Linkedin&logoColor=F22998&link=www.linkedin.com/in/igor-souza-aa6a44197/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-F9D5FF?style=for-the-badge&logo=Linkedin&logoColor=F22998&link=/igor-souza-aa6a44197/" /></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-F9D5FF?style=for-the-badge&logo=instagram&logoColor=F22998&link=www.instagram.com/_igor2k/" /></a>
+  <img src="https://img.shields.io/badge/-Instagram-F9D5FF?style=for-the-badge&logo=instagram&logoColor=F22998&link=/_igor2k/" /></a>
  
   <a href="#" alt="Behance">
-  <img src="https://img.shields.io/badge/-Behance-F9D5FF?style=for-the-badge&logo=behance&logoColor=F22998&link=www.behance.net/igorsouzadesign" /></a>
+  <img src="https://img.shields.io/badge/-Behance-F9D5FF?style=for-the-badge&logo=behance&logoColor=F22998&link=/igorsouzadesign" /></a>
   
 </p>
 
